@@ -42,7 +42,7 @@ header {
     background-color: white;
     font-family: sans-serif;
     height: 120px;
-    padding: 0;
+    padding: 20;
 }
 
 header * {
