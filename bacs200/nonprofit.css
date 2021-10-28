@@ -39,14 +39,14 @@ footer {
 
 header {
     border: 3px solid #F6B018;
-    background-color: #0E3D65;
+    background-color: light pink;
     font-family: sans-serif;
     height: 120px;
     padding: 0;
 }
 
 header * {
-    color: #F6B018;
+    color: purple;
 }
 
 hr {
@@ -87,7 +87,7 @@ body {
 }
 
 h1 {
-    color: red;
+    color: black;
     text-align: center;
     background-color: gray;
 }
