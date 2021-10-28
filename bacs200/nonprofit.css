@@ -59,35 +59,3 @@ li {
     padding: 0px;
 }
 
-/* ----------------------------------------------- */
-/* Classes */
-
-.header_logo {
-    width: 80px;
-    float: right;
-    background-color: white;
-    box-shadow: 2px 2px 5px lightpink ;
-    border-radius: 5px;
-    border: 1px solid black ;
-    padding: 0;
-}
-
-.page {
-    padding: 2em;
-    box-shadow: 2px 2px 5px lightpink ;
-    background-color: white;
-    border: 3px solid black ;
-    border-radius: 10px;
-    width: 50%;
-    float: left;
-}
-
-body {
-    color: black ;
-}
-
-h1 {
-    color: black;
-    text-align: center;
-    background-color: blue;
-}
