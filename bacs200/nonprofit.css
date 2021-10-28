@@ -4,7 +4,7 @@
 * {
     padding: 0px;
     margin: 10px;
-    color: green ;
+    color: black ;
 }
 
 body {
@@ -20,7 +20,7 @@ article {
 }
 
 aside {
-    background-color: blue;
+    background-color: darkblue;
     text-align: center;
     font-size: 30px;
     font-family: sans-serif;
