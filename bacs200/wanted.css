@@ -13,14 +13,14 @@ body {
 }
 
 article {
-    border: 1px solid gray;
-    box-shadow: 2px 2px 5px gray;
+    border: 1px solid white;
+    box-shadow: 2px 2px 5px white;
     margin: 3em;
     padding: 1em;
 }
 
 aside {
-    background-color: gray;
+    background-color: white;
     text-align: center;
     font-size: 30px;
     font-family: sans-serif;
@@ -39,7 +39,7 @@ footer {
 
 header {
     border: 3px solid #F6B018;
-    background-color: #0E3D65;
+    background-color: white;
     font-family: sans-serif;
     height: 120px;
     padding: 0;
@@ -66,7 +66,7 @@ li {
     width: 80px;
     float: right;
     background-color: white;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px white;
     border-radius: 5px;
     border: 1px solid white;
     padding: 0;
@@ -74,8 +74,8 @@ li {
 
 .page {
     padding: 2em;
-    box-shadow: 2px 2px 5px grey;
-    background-color: #eeeeee;
+    box-shadow: 2px 2px 5px white;
+    background-color: white;
     border: 3px solid #0E3D65;
     border-radius: 10px;
     width: 50%;
@@ -89,5 +89,5 @@ body {
 h1 {
     color: red;
     text-align: center;
-    background-color: gray;
+    background-color: white;
 }
