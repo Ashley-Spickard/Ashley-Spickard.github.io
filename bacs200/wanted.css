@@ -65,8 +65,8 @@ li {
 .header_logo {
     width: 80px;
     float: right;
-    background-color: white;
-    box-shadow: 2px 2px 5px gray;
+    background-color: lightpink;
+    box-shadow: 2px 2px 5px white;
     border-radius: 5px;
     border: 1px solid white;
     padding: 0;
@@ -87,7 +87,7 @@ body {
 }
 
 h1 {
-    color: red;
+    color: black;
     text-align: center;
     background-color: gray;
 }
